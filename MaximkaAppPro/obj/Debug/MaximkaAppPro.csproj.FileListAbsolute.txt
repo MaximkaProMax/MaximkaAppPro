@@ -1,0 +1,17 @@
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\bin\Debug\MaximkaAppPro.exe.config
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\bin\Debug\MaximkaAppPro.exe
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\bin\Debug\MaximkaAppPro.pdb
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.csproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\App.g.cs
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro_MarkupCompile.cache
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro_MarkupCompile.lref
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MainWindow.baml
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.g.resources
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.Properties.Resources.resources
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.exe
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\MaximkaAppPro.pdb
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\View\LoginView.g.cs
+C:\Users\Maxim\source\repos\MaximkaAppPro\MaximkaAppPro\obj\Debug\View\LoginView.baml
